@@ -1,0 +1,37 @@
+nav{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav{
+    background-image:linear-gradient(to right, #5f0a87, #a4508b
+    ) ;
+    padding: 0 15px;
+}
+
+.menu{
+    display: flex;
+    margin-left: auto;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    flex-direction: row;
+}
+
+.menu-items{
+    display:flex ;
+    padding: 5px;
+}
+
+a{
+    color: #f8f8ff;
+    text-decoration: none;
+}
+
+.brand-name{
+    color: #f8f8ff;
+}
+
